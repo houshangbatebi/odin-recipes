@@ -1,0 +1,25 @@
+.main-head {
+    text-align: center;
+}
+
+.list {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.main-head, .other-head {
+    background-color: rgb(83, 83, 83);
+    color: white;
+    font-family: "Helvetica", "Georgia", "Arial", sans-serif;
+}
+
+.food-img {
+    width: 450px;
+    height: auto;
+    text-align: center;
+}
+
+.General-text {
+    font-size: 22px;
+    font-family: "Lucida Grande", "Verdana", "Georgia", "Arial", sans-serif;
+}
