@@ -1,25 +1,54 @@
 .main-head {
     text-align: center;
+    margin: 0;
 }
 
 .list {
     font-weight: bold;
     font-size: 22px;
+    background-color: #cccccc;
+    padding: 30px;
+    margin: 8px 0 0 0;
 }
 
 .main-head, .other-head {
-    background-color: rgb(83, 83, 83);
+    background-color: #444444;
     color: white;
     font-family: "Helvetica", "Georgia", "Arial", sans-serif;
+    padding: 10px;
 }
 
 .food-img {
-    width: 450px;
+    max-width: 500px;
     height: auto;
-    text-align: center;
+    display: block;
+    margin:16px auto;
 }
 
 .General-text {
     font-size: 22px;
     font-family: "Lucida Grande", "Verdana", "Georgia", "Arial", sans-serif;
+    max-width: 1500px;
+    margin: 0 auto;
+    background-color: #eee;
+}
+
+.main-body {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #eee;
+}
+
+.container {
+    background-color: white;
+    padding: 8px;
+}
+
+.container-recipe {
+    background-color: #cccccc;
+    padding-bottom: 8px;
+}
+
+.description{
+    padding: 0 10px;
 }
